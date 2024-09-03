@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+}
+.container {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 2000px;
+}
+
+hr {
+    border-color: black;
+    background-color: black;
+    height: 2px;
+    width: 100%;
+}
+
+table {
+    background-color: goldenrod;
+    align-items: center;
+    text-align: center;
+}
